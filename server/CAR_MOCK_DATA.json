@@ -1,0 +1,114 @@
+[
+    {
+      "name": "Creta",
+      "brand": "Maruti Suzuki",
+      "priceinLacs": "25",
+      "type": "suv",
+      "options": { "mileage": "20", "bhp": 20, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "Fotuner",
+      "brand": "Toyota",
+      "priceinLacs": "45",
+      "type": "suv",
+      "options": { "mileage": "20", "bhp": 30, "transmission": "manual", "seats": 7 }
+    },
+    {
+      "name": "Innova",
+      "brand": "Toyota",
+      "priceinLacs": "39",
+      "type": "suv",
+      "options": { "mileage": "18", "bhp": 25, "transmission": "manual", "seats": 7 }
+    },
+    {
+      "name": "WagonR",
+      "brand": "Maruti Suzuki",
+      "priceinLacs": "25",
+      "type": "hatchback",
+      "options": { "mileage": "12", "bhp": 15, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "i20",
+      "brand": "Hyundai",
+      "priceinLacs": "5",
+      "type": "hatchback",
+      "options": { "mileage": "18", "bhp": 25, "transmission": "manual", "seats": 5 }
+    },
+    {
+      "name": "X1",
+      "brand": "BMW",
+      "priceinLacs": "18",
+      "type": "sedan",
+      "options": { "mileage": "25", "bhp": 10, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "X3",
+      "brand": "BMW",
+      "priceinLacs": "18",
+      "type": "suv",
+      "options": { "mileage": "25", "bhp": 10, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "X7",
+      "brand": "BMW",
+      "priceinLacs": "18",
+      "type": "suv",
+      "options": { "mileage": "22", "bhp": 30, "transmission": "automatic", "seats": 7 }
+    },
+    {
+      "name": "C-class",
+      "brand": "Mercedes",
+      "priceinLacs": "25",
+      "type": "luxury",
+      "options": { "mileage": "20", "bhp": 20, "transmission": "manual", "seats": 5 }
+    },
+    {
+      "name": "S-class",
+      "brand": "Mercedes",
+      "priceinLacs": "35",
+      "type": "luxury",
+      "options": { "mileage": "15", "bhp": 50, "transmission": "manual", "seats": 5 }
+    },
+    {
+      "name": "A-class",
+      "brand": "Mercedes",
+      "priceinLacs": "18",
+      "type": "luxury",
+      "options": { "mileage": "25", "bhp": 10, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "A5",
+      "brand": "Audi",
+      "priceinLacs": "18",
+      "type": "sedan",
+      "options": { "mileage": "25", "bhp": 10, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "A3",
+      "brand": "Audi",
+      "priceinLacs": "30",
+      "type": "sedan",
+      "options": { "mileage": "25", "bhp": 10, "transmission": "automatic", "seats": 5 }
+    },
+    {
+      "name": "A5",
+      "brand": "Audi",
+      "priceinLacs": "35",
+      "type": "sedan",
+      "options": { "mileage": "25", "bhp": 20, "transmission": "manual", "seats": 5 }
+    },
+    {
+      "name": "Q3",
+      "brand": "Audi",
+      "priceinLacs": "45",
+      "type": "sedan",
+      "options": { "mileage": "10", "bhp": 30, "transmission": "manual", "seats": 7 }
+    },
+    {
+      "name": "Q7",
+      "brand": "Audi",
+      "priceinLacs": "60",
+      "type": "suv",
+      "options": { "mileage": "10", "bhp": 50, "transmission": "manual", "seats": 7 }
+    }
+  ]
